@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/file1.h
+
+/home/weixm/CPP_PYTHON/MingWork/code/src/file1.cpp
+file1.h
+/home/weixm/CPP_PYTHON/MingWork/code/src/file1.h
+

@@ -1,0 +1,6 @@
+/home/weixm/CPP_PYTHON/MingWork/code/build/CMakeFiles/rebuild_cache.dir
+/home/weixm/CPP_PYTHON/MingWork/code/build/CMakeFiles/main.dir
+/home/weixm/CPP_PYTHON/MingWork/code/build/CMakeFiles/edit_cache.dir
+/home/weixm/CPP_PYTHON/MingWork/code/build/src/CMakeFiles/rebuild_cache.dir
+/home/weixm/CPP_PYTHON/MingWork/code/build/src/CMakeFiles/SRC.dir
+/home/weixm/CPP_PYTHON/MingWork/code/build/src/CMakeFiles/edit_cache.dir
